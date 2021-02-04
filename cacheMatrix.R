@@ -1,3 +1,4 @@
+#modified by Son Nguyen Feb, 2021
 makeCacheMatrix <- function(x =matrix()){
        m <- NULL
        
